@@ -8,8 +8,6 @@
                               
                               
                               
-                              
-                              
                               *Currently Supported roms:*
                               
                               - Cyanogenmod 11
@@ -25,6 +23,12 @@
                               -Aospa 4.x
                               -Miui v6
                               
+                              
+                              
+                              
+                              
+                                  Schedule
+                                  
                               ###############################
                               ## Day       --  Rom         ##
                               ##---------------------------##        
