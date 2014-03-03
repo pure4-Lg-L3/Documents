@@ -1,4 +1,4 @@
-Documents
+Slim Kat Branch
 =========
 
-Documents and other stuffs
+Slimkat Related Stuff
