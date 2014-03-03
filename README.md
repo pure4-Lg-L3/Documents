@@ -1,9 +1,12 @@
+This is a ''File Hosting repo''
                               
-                              *Rom(s) Release days
+                              
+                              
+                              Rom(s) Release days
                               Every mantainer build his rom
                               the day before the release,
                               usually at the end of the day 
-                              (depends on time zone)*
+                              (depends on time zone)
                               
                               
                               
@@ -16,7 +19,7 @@
                               - Slim-Kat
                               - Carbon
                               
-                             *Roms that we **may** support*
+                             Roms that we **may** support
                               
                               -Aosp
                               -Aokp
