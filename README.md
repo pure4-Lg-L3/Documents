@@ -1,4 +1,4 @@
-Documents
+Omni Rom Branch
 =========
 
-Documents and other stuffs
+Omni related stuff
