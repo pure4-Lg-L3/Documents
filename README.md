@@ -18,6 +18,7 @@ This is a ''File Hosting repo''
                               - Pac Roms
                               - Slim-Kat
                               - Carbon
+                              - AOSP
                               
                              Roms that we **may** support
                               
