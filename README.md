@@ -41,7 +41,7 @@ This is a ''File Hosting repo''
                               ##           --              ##        
                               ## Wednesday --              ##
                               ##           --              ##        
-                              ## Thursday  --              ##
+                              ## Thursday  --  AOSP        ##
                               ##           --              ##        
                               ## Friday    --  Carbon      ##
                               ##           --              ##        
