@@ -21,7 +21,6 @@ This is a ''File Hosting repo''
                               
                              Roms that we **may** support
                               
-                              -Aosp
                               -Aokp
                               -Aospa 4.x
                               -Miui v6
