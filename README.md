@@ -14,7 +14,7 @@ This is a ''File Hosting repo''
                               *Currently Supported roms:*
                               
                               - Cyanogenmod 11
-                              - Omni Rom 
+                              - Aospa 
                               - Pac Roms
                               - Slim-Kat
                               - Carbon
@@ -23,7 +23,7 @@ This is a ''File Hosting repo''
                              Roms that we **may** support
                               
                               -Aokp
-                              -Aospa 4.x
+                              -Omni Rom 
                               -Miui v6
                               
                               
@@ -31,21 +31,21 @@ This is a ''File Hosting repo''
                               
                               
                                   Schedule
-                                  
-                              ###############################
-                              ## Day       --  Rom         ##
-                              ##---------------------------##        
-                              ## Monday    --  Omni        ##
-                              ##           --              ##        
-                              ## Tuesday   --  Cyanogenmod ##
-                              ##           --              ##        
-                              ## Wednesday --              ##
-                              ##           --              ##        
-                              ## Thursday  --  AOSP        ##
-                              ##           --              ##        
-                              ## Friday    --  Carbon      ##
-                              ##           --              ##        
-                              ## Saturday  --  Slimkat     ##
-                              ##           --              ##        
-                              ## Sunday    --  Pac         ##
-                              ###############################
+                                 
+                              #######################################################
+                              ## Day       --  Rom             --    Contributors  ##
+                              ##---------------------------------------------------##        
+                              ## Monday    --  AOSPA           --    Linuxxxx      ##
+                              ##           --                                      ##        
+                              ## Tuesday   --  Cyanogenmod     --    Fergy         ##
+                              ##           --                                      ##        
+                              ## Wednesday --                  --                  ##
+                              ##           --                                      ##        
+                              ## Thursday  --  AOSP            --    babbo96       ##
+                              ##           --                                      ##        
+                              ## Friday    --  Carbon          --    Hecaxe        ##
+                              ##           --                                      ##        
+                              ## Saturday  --  Slimkat         --    sooorajjj     ##
+                              ##           --                                      ##        
+                              ## Sunday    --  Pac             --    deeiko        ##
+                              #######################################################
