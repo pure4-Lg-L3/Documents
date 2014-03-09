@@ -40,9 +40,9 @@ This is a ''File Hosting repo''
                               ##           --                                      ##        
                               ## Wednesday --                  --                  ##
                               ##           --                                      ##        
-                              ## Thursday  --  AOSP            --    babbo96       ##
+                              ## Thursday  --                  --                  ##
                               ##           --                                      ##        
-                              ## Friday    --                  --                  ##
+                              ## Friday    --  AOSP            --    babbo96       ##
                               ##           --                                      ##        
                               ## Saturday  --  Slimkat         --    sooorajjj     ##
                               ##           --                                      ##        
