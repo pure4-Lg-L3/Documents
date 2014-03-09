@@ -17,7 +17,6 @@ This is a ''File Hosting repo''
                               - Aospa 
                               - Pac Roms
                               - Slim-Kat
-                              - Carbon
                               - AOSP
                               
                              Roms that we **may** support
@@ -25,7 +24,7 @@ This is a ''File Hosting repo''
                               -Aokp
                               -Omni Rom 
                               -Miui v6
-                              
+                              -Carbon
                               
                               
                               
@@ -43,7 +42,7 @@ This is a ''File Hosting repo''
                               ##           --                                      ##        
                               ## Thursday  --  AOSP            --    babbo96       ##
                               ##           --                                      ##        
-                              ## Friday    --  Carbon          --    Hecaxe        ##
+                              ## Friday    --                  --                  ##
                               ##           --                                      ##        
                               ## Saturday  --  Slimkat         --    sooorajjj     ##
                               ##           --                                      ##        
