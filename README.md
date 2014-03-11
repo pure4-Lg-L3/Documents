@@ -34,7 +34,7 @@ This is a ''File Hosting repo''
                               #######################################################
                               ## Day       --  Rom             --    Contributors  ##
                               ##---------------------------------------------------##        
-                              ## Monday    --  AOSPA           --    Linuxxxx      ##
+                              ## Monday    --  AOSPURE         --    Linuxxxx      ##
                               ##           --                                      ##        
                               ## Tuesday   --  Cyanogenmod     --    Fergy         ##
                               ##           --                                      ##        
